@@ -1,4 +1,4 @@
-# Image-Converter
+# Image Converter
 Simple image to webp converter for ExpressionEngine
 
 ## Documentation
